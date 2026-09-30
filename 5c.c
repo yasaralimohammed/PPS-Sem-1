@@ -21,7 +21,6 @@ int i,j,number,k;
           {
               printf("\n");
           }
-       }
 
     }
 
